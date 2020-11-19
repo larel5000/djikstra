@@ -1,2 +1,2 @@
-# djikstra
-We implement Djikstra algorithm's in C to find the shortest path from a node in a graph
+# ACO
+We implement ant colony optimization algorithm on Sequential Ordering Problem
